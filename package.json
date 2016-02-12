@@ -1,0 +1,25 @@
+{
+  "name": "snarl-welcome",
+  "version": "0.1.0",
+  "description": "Plugin for snarl that presents some information to new users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/snarl-welcome.git"
+  },
+  "keywords": [
+    "snarl",
+    "plugin",
+    "welcome",
+    "slack"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/snarl-welcome/issues"
+  },
+  "homepage": "https://github.com/martindale/snarl-welcome"
+}
