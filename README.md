@@ -11,7 +11,7 @@ npm install snarl-welcome
 
 Finally, add the following values to `config/index.json`:
 
-```json
+```js
 {
   "name": "snarl",
   "plugins": ["welcome"], // add the "welcome" plugin here
@@ -26,7 +26,7 @@ Finally, add the following values to `config/index.json`:
 
 If you'd like, you can even include an array of messages:
 
-```json
+```js
 {
   "name": "snarl",
   "plugins": ["welcome"], // add the "welcome" plugin here
