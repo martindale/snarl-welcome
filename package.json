@@ -1,6 +1,6 @@
 {
   "name": "snarl-welcome",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin for snarl that presents some information to new users.",
   "main": "index.js",
   "scripts": {
